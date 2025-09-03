@@ -1,6 +1,6 @@
 # "Mirror Prime" Numbers
 
-A short description of the project goes here.
+A short description of the problem goes here.
 
 We will call the "mirror prime" if the reversed prime numbers are prime as well.
 
