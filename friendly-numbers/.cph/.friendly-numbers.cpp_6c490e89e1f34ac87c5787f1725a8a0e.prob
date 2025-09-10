@@ -1,0 +1,1 @@
+{"name":"Local: friendly-numbers","url":"/Users/farras/Documents/pbo/friendly-numbers/friendly-numbers.cpp","tests":[{"id":1757398366650,"input":"1 1000000","output":""},{"id":1757410053977,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/farras/Documents/pbo/friendly-numbers/friendly-numbers.cpp","group":"local","local":true}
